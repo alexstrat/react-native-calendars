@@ -1,3 +1,7 @@
+# Compared to upstream
+
+- Add swipeMonthsConfig prop => https://github.com/wix/react-native-calendars/pull/1359
+
 # React Native Calendars 🗓️ 📆
 
 [![Version](https://img.shields.io/npm/v/react-native-calendars.svg)](https://www.npmjs.com/package/react-native-calendars)
